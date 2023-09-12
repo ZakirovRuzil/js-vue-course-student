@@ -1,5 +1,5 @@
 const isThreePower = (num) => {
-    // Начало
+
  if (num < 1) {
     return false;
   }
@@ -10,7 +10,3 @@ const isThreePower = (num) => {
 
   return num === 1;
 };
-    // Конец
-};
-
-export default isThreePower;

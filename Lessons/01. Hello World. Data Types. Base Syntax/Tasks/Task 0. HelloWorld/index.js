@@ -1,7 +1,9 @@
-const helloWorld = () => {
-    // Начало
 
-    // Конец
-};
 
-export default helloWorld;
+function helloWorld() {
+  console.log("Hello World!");
+}
+
+// Пример использования
+helloWorld();  // Hello World!
+
